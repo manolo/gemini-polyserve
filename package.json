@@ -1,0 +1,22 @@
+{
+  "name": "gemini-polyserve",
+  "version": "1.0.0",
+  "description": "A gemini plugin that starts polyserve before running tests.",
+  "repository": "https://github.com/manolo/gemini-polyserve/",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "gemini",
+    "gemini-plugin",
+    "polyserve",
+    "testing"
+  ],
+  "author": "Manolo Carrasco Moñino",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "polyserve": "^0.16.0"
+  },
+  "devDependencies": {
+  }
+}
